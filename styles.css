@@ -4,6 +4,22 @@ body {
 }
 
 
+button {
+    display: inline-block;
+    background-color: darkgray;
+    border-radius: 0.5vw;
+    border: 0.25vw #cccccc;
+    color: brown;
+    text-align: center;
+    font-size: 1.25vw;
+    padding: 0.15vw;
+    width: 12vw;
+    height: 2vw;
+    cursor: pointer;
+    margin: 0.75vw;
+}
+
+
 #sisalto {
     margin: auto;
     position: relative;
