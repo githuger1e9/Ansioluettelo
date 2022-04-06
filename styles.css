@@ -64,6 +64,32 @@ button {
 }
 
 
+#oikea1 {
+    position: absolute;
+    width: 80%;
+    height: 16vw;
+}
+
+#oikea2 {
+    position: absolute;
+    width: 80%;
+    height: 16vw;
+    top: 18vw;
+}
+
+#oikea3 {
+    position: absolute;
+    width: 80%;
+    height: 16vw;
+    top: 36vw;
+}
+
+#oikea4 {
+    position: absolute;
+    width: 80%;
+    height: 16vw;
+    top: 54vw;
+}
 
 
 
